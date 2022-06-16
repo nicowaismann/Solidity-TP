@@ -1,2 +1,2 @@
-# Solidity-TP
+Integrantes: Nicolás W. y Dylan T.
  

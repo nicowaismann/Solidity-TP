@@ -44,7 +44,7 @@ contract notasEstudiante {
 
     
     function set_notamateria(string memory materia, uint nota_) public {
-       require(msg.sender == _docente, "Solo el docente registrado puede asignar notas");
+       require(msg.sender == _docente, "Solo el docente puede acceder a las notas");
 
         if(notas_materia[materia] == 0)
         {

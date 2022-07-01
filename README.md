@@ -1,3 +1,3 @@
-https://rinkeby.etherscan.io/address/0x1B180CC27947Dd63cd44Fc857B1Cee76Ab195461
-Integrantes: Nicolás W. y Dylan T.
+https://rinkeby.etherscan.io/address/0x2a8e356bC84782019BfA8339deaBD3A32B5F2a64
+Nicolás W.
  
